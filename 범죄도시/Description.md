@@ -13,5 +13,8 @@ KOSIS (https://kosis.kr/statHtml/statHtml.do?orgId=135&tblId=DT_13501N_A120&conn
 **팀노션 링크**  
 https://www.notion.so/likelion-aischool/294568f89e43419d8f1777ba2e61e173
   
+**범죄 발생율 지도 시각화**
+![image](https://user-images.githubusercontent.com/105341847/201290107-f7ddbe52-857b-4691-98e1-464b062ac5b5.png)
+  
 
   
